@@ -1,0 +1,1201 @@
+User_ID,Age,Gender,BMI,Smoker,Activity Level,Medical Condition,Health Recommendations
+1,49,Female,32.52,0,4,Osteoporosis,Focus on weight reduction strategies. | Great job maintaining high activity levels!
+2,29,Female,31.1,0,2,Osteoporosis,Focus on weight reduction strategies.
+3,35,Male,33.44,1,2,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+4,24,Male,30.15,0,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+5,41,Male,20.24,0,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+6,79,Male,27.67,0,3,Asthma,"Avoid allergens, and practice breathing exercises."
+7,29,Female,39.18,0,2,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies."
+8,65,Female,20.39,0,1,High Cholesterol,Try to incorporate more physical activities into your routine.
+9,27,Male,18.6,0,4,Arthritis,Great job maintaining high activity levels!
+10,31,Male,28.28,1,2,Arthritis,Quit smoking to lower risk of chronic diseases.
+11,58,Female,29.28,0,4,Allergies,Great job maintaining high activity levels!
+12,22,Male,28.75,0,2,None,
+13,58,Female,34.48,0,4,Osteoporosis,Focus on weight reduction strategies. | Great job maintaining high activity levels!
+14,71,Female,31.21,1,3,None,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+15,78,Male,32.81,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies."
+16,46,Male,32.79,0,4,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Great job maintaining high activity levels!
+17,18,Female,29.96,0,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+18,64,Female,30.59,1,2,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+19,23,Female,28.91,0,1,Kidney Disease,Try to incorporate more physical activities into your routine.
+20,30,Male,24.75,1,4,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!"
+21,47,Female,29.48,1,2,Allergies,Quit smoking to lower risk of chronic diseases.
+22,58,Male,30.85,1,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+23,67,Male,19.95,1,4,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!"
+24,37,Female,28.9,0,1,High Cholesterol,Try to incorporate more physical activities into your routine.
+25,65,Male,24.64,1,2,Allergies,Quit smoking to lower risk of chronic diseases.
+26,76,Female,35.62,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies."
+27,26,Male,38.82,0,2,Arthritis,Focus on weight reduction strategies.
+28,69,Female,37.37,1,4,Anxiety,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+29,47,Female,39.72,0,3,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies."
+30,69,Female,21.73,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+31,77,Female,24.39,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+32,52,Male,22.32,0,4,Asthma,"Avoid allergens, and practice breathing exercises. | Great job maintaining high activity levels!"
+33,62,Female,24.37,1,4,Anxiety,Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+34,26,Male,37.74,0,4,Kidney Disease,Focus on weight reduction strategies. | Great job maintaining high activity levels!
+35,75,Male,35.31,0,3,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies."
+36,37,Male,22.54,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+37,80,Female,39.8,1,3,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+38,28,Male,33.82,1,1,COPD,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+39,30,Male,19.59,0,2,Obesity,Adopt a calorie deficit diet and increase physical activity.
+40,49,Male,37.76,1,4,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!"
+41,61,Male,33.86,0,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+42,41,Male,33.62,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies.
+43,18,Male,29.78,1,4,Obesity,Adopt a calorie deficit diet and increase physical activity. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+44,59,Female,27.22,0,2,Asthma,"Avoid allergens, and practice breathing exercises."
+45,73,Male,32.57,1,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+46,27,Male,24.93,1,4,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!"
+47,65,Male,24.81,1,2,None,Quit smoking to lower risk of chronic diseases.
+48,26,Male,24.08,1,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+49,80,Female,35.93,0,4,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Great job maintaining high activity levels!
+50,54,Male,25.51,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+51,37,Female,34.05,1,2,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+52,53,Female,26.93,0,1,Arthritis,Try to incorporate more physical activities into your routine.
+53,46,Female,27.33,0,2,Asthma,"Avoid allergens, and practice breathing exercises."
+54,25,Female,28.0,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+55,28,Female,24.28,1,2,Depression,"Consider counseling, and practice mindfulness and relaxation. | Quit smoking to lower risk of chronic diseases."
+56,70,Female,30.34,0,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+57,74,Female,32.34,1,1,Chronic Fatigue,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+58,57,Female,20.63,0,1,Kidney Disease,Try to incorporate more physical activities into your routine.
+59,56,Female,19.86,1,3,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Quit smoking to lower risk of chronic diseases."
+60,64,Female,37.9,0,2,None,Focus on weight reduction strategies.
+61,27,Female,21.17,0,2,Kidney Disease,
+62,70,Male,19.98,1,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Quit smoking to lower risk of chronic diseases.
+63,36,Male,30.9,0,2,Anxiety,Focus on weight reduction strategies.
+64,73,Male,39.35,1,1,Allergies,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+65,25,Female,24.05,0,1,Asthma,"Avoid allergens, and practice breathing exercises. | Try to incorporate more physical activities into your routine."
+66,57,Male,21.03,1,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+67,33,Male,25.72,0,2,Thyroid Disorders,
+68,62,Male,33.76,0,2,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies."
+69,18,Female,20.08,0,4,None,Great job maintaining high activity levels!
+70,70,Male,24.68,1,3,Osteoporosis,Quit smoking to lower risk of chronic diseases.
+71,60,Female,37.43,0,4,Allergies,Focus on weight reduction strategies. | Great job maintaining high activity levels!
+72,30,Female,28.15,0,2,Arthritis,
+73,35,Female,38.84,1,1,None,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+74,74,Male,36.67,1,1,None,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+75,29,Male,22.73,0,4,High Cholesterol,Great job maintaining high activity levels!
+76,69,Male,30.88,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies.
+77,33,Male,19.32,0,1,Thyroid Disorders,Try to incorporate more physical activities into your routine.
+78,51,Male,37.41,0,1,High Cholesterol,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+79,47,Male,29.09,1,1,Asthma,"Avoid allergens, and practice breathing exercises. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+80,42,Male,39.4,0,1,None,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+81,54,Male,26.98,0,1,Anxiety,Try to incorporate more physical activities into your routine.
+82,78,Female,27.49,0,1,Asthma,"Avoid allergens, and practice breathing exercises. | Try to incorporate more physical activities into your routine."
+83,37,Female,21.28,0,1,Asthma,"Avoid allergens, and practice breathing exercises. | Try to incorporate more physical activities into your routine."
+84,68,Female,32.44,1,3,Arthritis,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+85,53,Male,32.32,0,1,Osteoporosis,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+86,48,Female,23.74,0,1,Asthma,"Avoid allergens, and practice breathing exercises. | Try to incorporate more physical activities into your routine."
+87,28,Male,36.23,0,1,Anxiety,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+88,69,Female,23.73,0,2,Asthma,"Avoid allergens, and practice breathing exercises."
+89,78,Male,23.86,0,3,Obesity,Adopt a calorie deficit diet and increase physical activity.
+90,57,Male,34.59,0,2,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies."
+91,38,Female,21.24,0,2,None,
+92,45,Male,23.3,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+93,26,Male,25.1,0,1,Anxiety,Try to incorporate more physical activities into your routine.
+94,40,Female,18.53,0,1,High Cholesterol,Try to incorporate more physical activities into your routine.
+95,76,Male,18.7,0,3,Kidney Disease,
+96,44,Female,25.78,1,4,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!"
+97,69,Male,23.6,0,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+98,41,Male,28.04,1,1,Allergies,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+99,64,Female,27.58,1,3,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Quit smoking to lower risk of chronic diseases."
+100,65,Female,26.54,1,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+101,72,Male,21.5,1,2,None,Quit smoking to lower risk of chronic diseases.
+102,55,Male,31.32,0,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies.
+103,40,Female,33.55,1,3,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+104,27,Female,20.4,1,4,Osteoporosis,Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+105,79,Female,36.52,0,1,Osteoporosis,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+106,63,Male,20.47,0,1,Osteoporosis,Try to incorporate more physical activities into your routine.
+107,20,Male,22.03,1,1,None,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+108,36,Male,19.48,0,3,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats."
+109,76,Male,23.9,1,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+110,65,Female,23.68,0,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Try to incorporate more physical activities into your routine.
+111,46,Male,30.0,0,1,None,Try to incorporate more physical activities into your routine.
+112,29,Male,36.3,0,3,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies."
+113,77,Female,23.52,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+114,28,Female,27.64,0,1,None,Try to incorporate more physical activities into your routine.
+115,67,Female,30.13,0,1,None,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+116,48,Male,28.4,0,3,Obesity,Adopt a calorie deficit diet and increase physical activity.
+117,53,Male,35.89,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+118,46,Male,18.54,0,3,None,
+119,21,Female,23.49,1,1,Thyroid Disorders,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+120,37,Male,24.99,0,1,Arthritis,Try to incorporate more physical activities into your routine.
+121,38,Male,36.05,0,1,Allergies,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+122,65,Male,21.81,0,1,Depression,"Consider counseling, and practice mindfulness and relaxation. | Try to incorporate more physical activities into your routine."
+123,32,Female,28.89,1,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Quit smoking to lower risk of chronic diseases."
+124,76,Male,35.13,0,2,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies.
+125,23,Male,29.59,1,1,Arthritis,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+126,75,Female,32.39,0,1,Thyroid Disorders,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+127,78,Male,34.22,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+128,23,Male,26.65,0,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+129,74,Male,20.63,0,3,None,
+130,69,Female,34.09,1,4,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!"
+131,24,Female,20.99,0,2,Osteoporosis,
+132,42,Female,24.68,0,3,Asthma,"Avoid allergens, and practice breathing exercises."
+133,57,Male,33.05,0,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+134,77,Female,36.23,0,1,High Cholesterol,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+135,55,Female,25.22,1,1,Depression,"Consider counseling, and practice mindfulness and relaxation. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+136,64,Male,36.07,0,1,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+137,25,Male,20.0,0,1,Asthma,"Avoid allergens, and practice breathing exercises. | Try to incorporate more physical activities into your routine."
+138,55,Female,25.2,0,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+139,22,Female,32.94,0,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+140,70,Female,36.54,0,3,Allergies,Focus on weight reduction strategies.
+141,41,Male,28.78,1,1,COPD,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+142,53,Female,27.22,0,3,Depression,"Consider counseling, and practice mindfulness and relaxation."
+143,33,Male,36.06,0,4,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Great job maintaining high activity levels!"
+144,52,Female,20.21,0,4,Allergies,Great job maintaining high activity levels!
+145,21,Female,36.77,0,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+146,36,Male,31.76,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+147,75,Female,36.59,1,2,High Cholesterol,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+148,31,Female,33.46,0,3,COPD,Focus on weight reduction strategies.
+149,64,Female,19.27,1,4,Thyroid Disorders,Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+150,21,Female,32.88,1,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+151,64,Male,27.19,0,1,None,Try to incorporate more physical activities into your routine.
+152,78,Male,26.39,1,2,Depression,"Consider counseling, and practice mindfulness and relaxation. | Quit smoking to lower risk of chronic diseases."
+153,55,Female,19.39,1,3,None,Quit smoking to lower risk of chronic diseases.
+154,72,Male,27.63,0,4,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Great job maintaining high activity levels!"
+155,47,Male,24.1,0,1,Asthma,"Avoid allergens, and practice breathing exercises. | Try to incorporate more physical activities into your routine."
+156,40,Female,20.7,0,4,Asthma,"Avoid allergens, and practice breathing exercises. | Great job maintaining high activity levels!"
+157,39,Female,37.76,1,2,Arthritis,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+158,76,Male,25.28,0,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+159,39,Female,27.65,0,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Try to incorporate more physical activities into your routine."
+160,35,Female,21.54,1,1,None,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+161,41,Female,33.93,1,2,None,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+162,61,Female,26.64,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+163,80,Female,37.32,0,2,Thyroid Disorders,Focus on weight reduction strategies.
+164,48,Male,29.63,0,3,Obesity,Adopt a calorie deficit diet and increase physical activity.
+165,54,Female,37.05,0,2,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies."
+166,25,Male,21.57,0,1,None,Try to incorporate more physical activities into your routine.
+167,38,Female,22.02,0,2,Obesity,Adopt a calorie deficit diet and increase physical activity.
+168,45,Female,24.98,1,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Quit smoking to lower risk of chronic diseases.
+169,29,Female,21.97,0,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Try to incorporate more physical activities into your routine.
+170,23,Male,34.65,0,3,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies."
+171,67,Male,34.72,1,3,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+172,40,Female,23.27,0,3,Thyroid Disorders,
+173,43,Male,20.4,0,3,Depression,"Consider counseling, and practice mindfulness and relaxation."
+174,36,Female,27.09,0,4,COPD,Great job maintaining high activity levels!
+175,31,Female,23.31,0,1,Osteoporosis,Try to incorporate more physical activities into your routine.
+176,56,Male,23.27,1,2,None,Quit smoking to lower risk of chronic diseases.
+177,21,Male,26.85,1,1,Kidney Disease,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+178,74,Female,28.0,0,1,Osteoporosis,Try to incorporate more physical activities into your routine.
+179,32,Male,36.59,0,4,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Great job maintaining high activity levels!"
+180,67,Female,38.34,0,1,Thyroid Disorders,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+181,41,Male,27.8,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+182,70,Male,33.86,0,2,Allergies,Focus on weight reduction strategies.
+183,79,Female,23.03,0,4,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Great job maintaining high activity levels!
+184,31,Female,28.57,0,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Try to incorporate more physical activities into your routine.
+185,65,Male,26.59,1,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+186,67,Male,30.65,0,2,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies."
+187,42,Male,26.97,0,2,None,
+188,38,Male,23.71,0,4,None,Great job maintaining high activity levels!
+189,18,Male,35.64,0,1,High Cholesterol,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+190,70,Male,20.29,0,3,Asthma,"Avoid allergens, and practice breathing exercises."
+191,78,Female,29.31,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+192,65,Male,38.34,1,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+193,68,Female,22.4,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+194,47,Male,37.08,0,1,Thyroid Disorders,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+195,78,Male,33.42,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies."
+196,71,Female,34.29,0,1,Chronic Fatigue,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+197,29,Male,21.27,1,2,Arthritis,Quit smoking to lower risk of chronic diseases.
+198,58,Female,19.93,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+199,45,Male,23.82,0,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Try to incorporate more physical activities into your routine.
+200,63,Female,26.13,1,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Quit smoking to lower risk of chronic diseases.
+201,51,Female,21.11,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+202,42,Female,38.07,1,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+203,54,Male,31.78,0,1,Kidney Disease,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+204,80,Male,39.97,0,1,None,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+205,56,Male,38.19,0,3,Kidney Disease,Focus on weight reduction strategies.
+206,27,Male,27.7,0,1,Chronic Fatigue,Try to incorporate more physical activities into your routine.
+207,79,Female,19.76,1,4,None,Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+208,70,Female,36.84,0,1,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+209,21,Male,33.7,0,1,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+210,61,Male,28.5,0,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Try to incorporate more physical activities into your routine."
+211,19,Female,35.73,0,2,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies."
+212,33,Female,25.59,0,2,Anxiety,
+213,22,Male,39.56,1,2,None,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+214,22,Male,27.88,0,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Try to incorporate more physical activities into your routine."
+215,54,Female,32.59,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+216,79,Male,33.4,0,3,Osteoporosis,Focus on weight reduction strategies.
+217,36,Female,31.45,1,1,None,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+218,69,Male,29.0,0,3,Arthritis,
+219,32,Male,33.73,1,2,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+220,46,Female,25.47,0,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+221,35,Female,26.64,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+222,41,Female,24.91,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+223,64,Male,28.25,1,2,Obesity,Adopt a calorie deficit diet and increase physical activity. | Quit smoking to lower risk of chronic diseases.
+224,70,Male,25.52,1,3,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Quit smoking to lower risk of chronic diseases."
+225,34,Female,27.65,0,4,High Cholesterol,Great job maintaining high activity levels!
+226,24,Male,36.56,1,3,Arthritis,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+227,25,Female,31.48,0,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+228,38,Male,38.83,0,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+229,28,Female,20.91,0,1,Allergies,Try to incorporate more physical activities into your routine.
+230,80,Male,35.47,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies."
+231,60,Female,28.6,0,3,Asthma,"Avoid allergens, and practice breathing exercises."
+232,50,Female,37.61,1,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+233,73,Male,24.89,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+234,76,Male,31.32,0,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies."
+235,61,Male,21.05,0,2,None,
+236,68,Female,32.78,1,4,Arthritis,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+237,57,Female,37.3,0,1,High Cholesterol,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+238,63,Female,30.55,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+239,75,Female,37.21,0,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+240,41,Female,38.55,0,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+241,40,Male,34.39,0,1,Arthritis,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+242,39,Male,31.48,0,3,Allergies,Focus on weight reduction strategies.
+243,44,Male,35.96,1,3,High Cholesterol,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+244,30,Female,33.44,0,1,Allergies,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+245,20,Male,38.35,0,2,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies."
+246,58,Male,36.19,1,1,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+247,72,Female,20.29,1,3,Obesity,Adopt a calorie deficit diet and increase physical activity. | Quit smoking to lower risk of chronic diseases.
+248,35,Male,27.55,0,2,Thyroid Disorders,
+249,19,Male,30.12,0,2,None,Focus on weight reduction strategies.
+250,75,Female,36.85,1,1,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+251,43,Male,18.54,0,4,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Great job maintaining high activity levels!"
+252,20,Male,30.24,1,1,Anxiety,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+253,34,Male,19.54,0,4,Arthritis,Great job maintaining high activity levels!
+254,68,Male,23.08,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+255,20,Female,29.87,0,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+256,42,Female,29.95,0,1,High Cholesterol,Try to incorporate more physical activities into your routine.
+257,33,Male,34.95,0,3,None,Focus on weight reduction strategies.
+258,75,Male,34.91,1,2,Osteoporosis,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+259,47,Female,27.11,0,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+260,24,Female,25.12,0,1,Anxiety,Try to incorporate more physical activities into your routine.
+261,46,Male,31.96,0,1,High Cholesterol,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+262,60,Male,28.26,1,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Quit smoking to lower risk of chronic diseases.
+263,40,Male,26.76,1,1,Arthritis,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+264,75,Female,34.39,0,4,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Great job maintaining high activity levels!
+265,70,Male,34.61,1,1,Osteoporosis,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+266,66,Female,37.3,1,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+267,38,Female,32.63,0,3,Arthritis,Focus on weight reduction strategies.
+268,43,Male,23.24,1,1,Thyroid Disorders,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+269,51,Female,19.16,0,1,Arthritis,Try to incorporate more physical activities into your routine.
+270,64,Female,20.57,0,1,High Cholesterol,Try to incorporate more physical activities into your routine.
+271,72,Female,21.9,1,1,None,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+272,25,Female,39.4,0,3,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies."
+273,77,Female,36.86,0,2,High Cholesterol,Focus on weight reduction strategies.
+274,26,Female,36.54,0,3,Osteoporosis,Focus on weight reduction strategies.
+275,34,Male,28.12,0,2,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats."
+276,47,Male,24.03,0,1,Thyroid Disorders,Try to incorporate more physical activities into your routine.
+277,18,Male,34.26,0,3,Allergies,Focus on weight reduction strategies.
+278,62,Female,38.43,1,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+279,58,Male,23.7,0,2,Depression,"Consider counseling, and practice mindfulness and relaxation."
+280,57,Male,36.45,1,1,High Cholesterol,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+281,34,Female,38.43,1,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+282,56,Male,24.0,0,4,Arthritis,Great job maintaining high activity levels!
+283,63,Male,34.06,0,4,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies. | Great job maintaining high activity levels!"
+284,57,Male,39.05,1,1,Allergies,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+285,57,Male,28.16,0,3,Arthritis,
+286,70,Male,36.47,0,2,Anxiety,Focus on weight reduction strategies.
+287,53,Female,25.53,1,1,None,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+288,43,Female,24.28,0,1,Osteoporosis,Try to incorporate more physical activities into your routine.
+289,49,Female,36.14,1,2,None,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+290,29,Male,39.84,0,4,None,Focus on weight reduction strategies. | Great job maintaining high activity levels!
+291,26,Male,28.34,0,4,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Great job maintaining high activity levels!"
+292,29,Female,21.18,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+293,30,Male,29.11,1,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+294,33,Male,33.1,0,2,High Cholesterol,Focus on weight reduction strategies.
+295,67,Female,27.59,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+296,77,Male,36.74,0,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies."
+297,68,Female,23.35,0,1,Allergies,Try to incorporate more physical activities into your routine.
+298,65,Female,25.51,0,2,High Cholesterol,
+299,40,Male,28.28,0,4,COPD,Great job maintaining high activity levels!
+300,55,Female,28.09,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+301,77,Male,32.1,0,3,Arthritis,Focus on weight reduction strategies.
+302,20,Female,20.41,0,2,None,
+303,56,Male,30.18,0,4,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Great job maintaining high activity levels!
+304,60,Male,33.93,1,4,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+305,76,Male,39.49,0,4,High Cholesterol,Focus on weight reduction strategies. | Great job maintaining high activity levels!
+306,19,Female,19.34,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+307,52,Female,37.03,0,2,None,Focus on weight reduction strategies.
+308,55,Male,19.64,0,3,Obesity,Adopt a calorie deficit diet and increase physical activity.
+309,75,Female,20.86,1,1,Asthma,"Avoid allergens, and practice breathing exercises. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+310,53,Male,26.72,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+311,60,Female,19.33,0,2,Obesity,Adopt a calorie deficit diet and increase physical activity.
+312,69,Female,35.98,1,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+313,55,Female,22.36,0,2,Arthritis,
+314,62,Male,28.25,0,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Try to incorporate more physical activities into your routine.
+315,68,Female,34.17,0,1,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+316,62,Male,23.47,1,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+317,67,Female,19.17,1,4,High Cholesterol,Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+318,49,Female,26.2,0,3,High Cholesterol,
+319,33,Female,35.12,0,4,COPD,Focus on weight reduction strategies. | Great job maintaining high activity levels!
+320,39,Male,21.49,0,3,High Cholesterol,
+321,21,Female,34.59,1,1,Kidney Disease,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+322,73,Female,20.45,1,1,None,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+323,27,Female,23.1,0,1,Depression,"Consider counseling, and practice mindfulness and relaxation. | Try to incorporate more physical activities into your routine."
+324,47,Female,32.22,1,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+325,48,Female,34.79,0,4,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Great job maintaining high activity levels!"
+326,53,Male,24.14,1,2,Obesity,Adopt a calorie deficit diet and increase physical activity. | Quit smoking to lower risk of chronic diseases.
+327,58,Female,37.77,0,2,None,Focus on weight reduction strategies.
+328,72,Female,34.38,0,1,None,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+329,42,Male,34.25,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+330,48,Female,35.19,1,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+331,57,Female,39.17,0,3,Arthritis,Focus on weight reduction strategies.
+332,40,Male,19.96,1,1,Depression,"Consider counseling, and practice mindfulness and relaxation. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+333,71,Male,32.62,1,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+334,35,Male,39.8,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies."
+335,71,Female,26.43,0,2,None,
+336,73,Male,22.84,0,1,None,Try to incorporate more physical activities into your routine.
+337,22,Female,30.43,0,1,None,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+338,35,Male,34.55,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+339,36,Female,19.63,0,2,Anxiety,
+340,78,Female,26.54,1,1,None,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+341,37,Male,30.73,0,4,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Great job maintaining high activity levels!
+342,36,Male,25.55,0,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Try to incorporate more physical activities into your routine.
+343,25,Male,34.17,1,1,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+344,21,Female,20.55,0,1,Depression,"Consider counseling, and practice mindfulness and relaxation. | Try to incorporate more physical activities into your routine."
+345,78,Female,37.77,0,2,Osteoporosis,Focus on weight reduction strategies.
+346,52,Female,24.05,0,3,None,
+347,77,Male,21.66,1,4,Allergies,Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+348,30,Female,37.2,0,1,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+349,48,Female,21.87,0,1,High Cholesterol,Try to incorporate more physical activities into your routine.
+350,75,Female,39.47,1,3,Allergies,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+351,73,Male,36.45,1,2,Allergies,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+352,38,Male,23.99,1,4,Thyroid Disorders,Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+353,23,Male,36.5,1,3,Anxiety,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+354,71,Male,34.31,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+355,27,Male,33.3,0,2,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies.
+356,77,Female,35.54,0,1,None,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+357,52,Male,38.56,0,3,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies.
+358,72,Male,20.1,0,1,Depression,"Consider counseling, and practice mindfulness and relaxation. | Try to incorporate more physical activities into your routine."
+359,23,Female,19.04,0,1,None,Try to incorporate more physical activities into your routine.
+360,77,Male,24.57,0,1,Asthma,"Avoid allergens, and practice breathing exercises. | Try to incorporate more physical activities into your routine."
+361,71,Male,33.94,1,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+362,74,Female,26.69,0,2,Thyroid Disorders,
+363,43,Female,35.21,0,1,Arthritis,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+364,32,Female,28.63,0,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Try to incorporate more physical activities into your routine.
+365,46,Female,32.38,0,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+366,28,Male,30.25,1,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+367,29,Female,27.11,0,2,Obesity,Adopt a calorie deficit diet and increase physical activity.
+368,51,Male,21.56,1,4,Asthma,"Avoid allergens, and practice breathing exercises. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!"
+369,27,Female,27.69,1,2,Depression,"Consider counseling, and practice mindfulness and relaxation. | Quit smoking to lower risk of chronic diseases."
+370,61,Female,32.74,0,1,None,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+371,38,Male,27.14,0,3,None,
+372,36,Female,20.1,0,1,Arthritis,Try to incorporate more physical activities into your routine.
+373,48,Female,24.5,1,1,Thyroid Disorders,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+374,21,Male,38.62,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies.
+375,64,Female,32.9,0,1,High Cholesterol,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+376,47,Female,30.82,1,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+377,65,Female,21.97,1,1,High Cholesterol,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+378,66,Male,29.0,0,4,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Great job maintaining high activity levels!
+379,79,Female,19.92,0,3,Thyroid Disorders,
+380,45,Female,19.36,1,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+381,35,Male,19.67,0,1,Osteoporosis,Try to incorporate more physical activities into your routine.
+382,25,Female,29.99,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+383,43,Male,29.27,0,1,Allergies,Try to incorporate more physical activities into your routine.
+384,64,Female,30.04,1,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+385,48,Female,29.6,0,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Try to incorporate more physical activities into your routine."
+386,56,Male,37.16,1,2,Anxiety,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+387,75,Female,27.05,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+388,39,Male,35.02,0,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+389,47,Female,30.18,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies."
+390,24,Male,27.93,0,1,Osteoporosis,Try to incorporate more physical activities into your routine.
+391,72,Female,27.27,0,1,Chronic Fatigue,Try to incorporate more physical activities into your routine.
+392,65,Female,31.17,0,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+393,65,Male,25.5,0,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Try to incorporate more physical activities into your routine."
+394,78,Female,32.5,0,1,Arthritis,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+395,24,Male,21.09,0,3,Depression,"Consider counseling, and practice mindfulness and relaxation."
+396,29,Male,22.89,0,1,Depression,"Consider counseling, and practice mindfulness and relaxation. | Try to incorporate more physical activities into your routine."
+397,51,Female,37.29,1,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+398,71,Female,27.37,0,1,Arthritis,Try to incorporate more physical activities into your routine.
+399,62,Female,37.59,0,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+400,52,Female,25.23,0,2,Osteoporosis,
+401,57,Female,35.53,1,1,None,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+402,78,Male,39.76,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies.
+403,50,Female,38.78,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies."
+404,41,Male,36.63,1,2,Allergies,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+405,32,Female,34.57,0,2,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies."
+406,66,Female,29.81,1,2,Obesity,Adopt a calorie deficit diet and increase physical activity. | Quit smoking to lower risk of chronic diseases.
+407,80,Male,23.47,1,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+408,39,Female,20.94,0,3,Obesity,Adopt a calorie deficit diet and increase physical activity.
+409,44,Male,25.81,1,1,None,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+410,32,Female,29.9,0,1,Arthritis,Try to incorporate more physical activities into your routine.
+411,66,Female,31.04,0,4,Anxiety,Focus on weight reduction strategies. | Great job maintaining high activity levels!
+412,38,Male,32.05,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+413,19,Male,30.94,0,2,None,Focus on weight reduction strategies.
+414,24,Female,23.85,0,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Try to incorporate more physical activities into your routine."
+415,43,Male,36.2,1,3,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+416,63,Male,26.53,1,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+417,50,Male,33.36,0,1,Anxiety,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+418,50,Male,31.29,1,3,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+419,76,Female,22.35,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+420,49,Female,23.3,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+421,59,Female,35.25,0,3,None,Focus on weight reduction strategies.
+422,60,Male,21.53,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+423,33,Male,24.64,0,2,High Cholesterol,
+424,41,Male,18.67,0,1,Thyroid Disorders,Try to incorporate more physical activities into your routine.
+425,40,Female,23.64,0,3,Arthritis,
+426,64,Male,28.84,0,1,Kidney Disease,Try to incorporate more physical activities into your routine.
+427,48,Female,39.42,0,3,High Cholesterol,Focus on weight reduction strategies.
+428,64,Male,39.04,0,1,Arthritis,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+429,57,Male,20.28,0,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Try to incorporate more physical activities into your routine."
+430,25,Female,27.05,0,1,Arthritis,Try to incorporate more physical activities into your routine.
+431,42,Male,19.23,1,1,Kidney Disease,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+432,59,Male,28.55,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+433,54,Female,37.28,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+434,49,Male,19.68,0,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Try to incorporate more physical activities into your routine.
+435,34,Female,25.18,0,3,Allergies,
+436,41,Male,31.09,1,3,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+437,40,Male,34.39,0,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies."
+438,50,Female,31.1,0,2,Arthritis,Focus on weight reduction strategies.
+439,21,Male,36.26,0,1,COPD,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+440,30,Female,27.83,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+441,80,Male,23.78,0,2,Allergies,
+442,25,Female,35.1,1,1,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+443,27,Female,38.29,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+444,41,Male,36.47,0,1,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+445,68,Male,30.27,1,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+446,49,Male,29.89,0,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Try to incorporate more physical activities into your routine."
+447,57,Male,27.04,0,1,Arthritis,Try to incorporate more physical activities into your routine.
+448,75,Female,25.32,1,3,Asthma,"Avoid allergens, and practice breathing exercises. | Quit smoking to lower risk of chronic diseases."
+449,57,Female,33.73,1,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+450,18,Female,29.73,0,2,None,
+451,80,Female,29.02,0,3,None,
+452,42,Male,19.78,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+453,30,Female,28.91,0,2,Obesity,Adopt a calorie deficit diet and increase physical activity.
+454,47,Female,37.54,0,2,High Cholesterol,Focus on weight reduction strategies.
+455,37,Male,30.38,0,1,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+456,49,Female,34.41,0,1,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+457,65,Male,26.49,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+458,22,Female,28.86,0,1,Anxiety,Try to incorporate more physical activities into your routine.
+459,23,Female,23.86,0,3,Arthritis,
+460,63,Male,35.47,1,1,Anxiety,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+461,77,Male,29.4,0,1,COPD,Try to incorporate more physical activities into your routine.
+462,70,Female,18.55,0,1,High Cholesterol,Try to incorporate more physical activities into your routine.
+463,25,Male,32.76,0,1,None,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+464,58,Female,39.84,0,2,None,Focus on weight reduction strategies.
+465,76,Female,32.61,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies.
+466,67,Female,22.4,1,1,None,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+467,27,Female,21.08,0,4,None,Great job maintaining high activity levels!
+468,40,Female,39.19,1,2,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+469,32,Female,34.48,1,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+470,67,Male,26.87,0,1,High Cholesterol,Try to incorporate more physical activities into your routine.
+471,51,Male,28.93,0,3,Obesity,Adopt a calorie deficit diet and increase physical activity.
+472,56,Male,32.03,1,2,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+473,43,Male,28.62,0,3,Asthma,"Avoid allergens, and practice breathing exercises."
+474,75,Male,38.28,1,2,None,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+475,58,Female,27.4,1,1,Arthritis,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+476,35,Male,19.32,1,3,Kidney Disease,Quit smoking to lower risk of chronic diseases.
+477,62,Female,34.02,0,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+478,50,Female,35.52,0,4,Allergies,Focus on weight reduction strategies. | Great job maintaining high activity levels!
+479,37,Male,21.06,0,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Try to incorporate more physical activities into your routine.
+480,76,Female,20.79,0,4,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Great job maintaining high activity levels!"
+481,51,Female,26.44,1,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+482,57,Female,21.52,0,2,Allergies,
+483,76,Female,33.54,0,1,Anxiety,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+484,58,Female,33.49,0,1,Anxiety,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+485,45,Female,35.41,1,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+486,65,Male,23.73,0,2,Arthritis,
+487,31,Male,23.48,0,4,High Cholesterol,Great job maintaining high activity levels!
+488,24,Male,32.87,0,2,Arthritis,Focus on weight reduction strategies.
+489,33,Male,33.38,0,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+490,46,Male,24.85,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+491,36,Female,19.94,0,4,Anxiety,Great job maintaining high activity levels!
+492,48,Male,37.45,0,1,High Cholesterol,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+493,66,Male,21.66,0,4,High Cholesterol,Great job maintaining high activity levels!
+494,19,Male,35.62,1,4,Arthritis,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+495,58,Male,27.84,1,2,None,Quit smoking to lower risk of chronic diseases.
+496,62,Female,33.65,0,4,High Cholesterol,Focus on weight reduction strategies. | Great job maintaining high activity levels!
+497,36,Male,36.62,0,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+498,52,Female,24.23,0,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Try to incorporate more physical activities into your routine.
+499,74,Male,24.93,1,1,Kidney Disease,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+500,23,Female,32.99,0,3,Anxiety,Focus on weight reduction strategies.
+501,64,Female,31.36,0,1,None,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+502,37,Female,28.8,0,2,None,
+503,45,Female,28.49,0,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Try to incorporate more physical activities into your routine."
+504,44,Male,25.84,0,4,Arthritis,Great job maintaining high activity levels!
+505,38,Male,38.19,1,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+506,41,Female,33.72,1,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+507,69,Female,23.02,0,3,None,
+508,69,Female,32.42,0,1,Thyroid Disorders,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+509,38,Male,24.59,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+510,35,Male,34.24,0,1,None,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+511,77,Female,27.93,0,4,None,Great job maintaining high activity levels!
+512,74,Male,37.46,1,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+513,18,Female,27.52,0,1,Thyroid Disorders,Try to incorporate more physical activities into your routine.
+514,75,Female,18.85,0,1,None,Try to incorporate more physical activities into your routine.
+515,62,Female,22.9,0,2,None,
+516,22,Female,21.97,0,2,Asthma,"Avoid allergens, and practice breathing exercises."
+517,69,Male,25.87,0,3,Kidney Disease,
+518,67,Female,30.24,0,2,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies."
+519,28,Female,19.48,0,1,None,Try to incorporate more physical activities into your routine.
+520,36,Female,31.82,0,2,None,Focus on weight reduction strategies.
+521,55,Male,25.69,0,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Try to incorporate more physical activities into your routine.
+522,74,Male,20.52,1,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Quit smoking to lower risk of chronic diseases.
+523,71,Female,22.98,0,2,Depression,"Consider counseling, and practice mindfulness and relaxation."
+524,47,Female,26.5,0,1,Allergies,Try to incorporate more physical activities into your routine.
+525,27,Male,29.22,0,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Try to incorporate more physical activities into your routine."
+526,23,Female,26.53,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+527,55,Female,25.71,1,1,Anxiety,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+528,65,Male,19.3,0,1,None,Try to incorporate more physical activities into your routine.
+529,74,Female,36.03,0,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies."
+530,53,Male,30.55,0,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies."
+531,33,Female,21.56,0,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Try to incorporate more physical activities into your routine.
+532,58,Female,38.4,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies."
+533,60,Female,24.65,0,3,Asthma,"Avoid allergens, and practice breathing exercises."
+534,25,Female,35.25,0,1,Allergies,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+535,55,Female,24.77,1,2,None,Quit smoking to lower risk of chronic diseases.
+536,64,Female,23.14,0,2,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats."
+537,25,Female,24.02,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+538,45,Female,22.09,1,1,Kidney Disease,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+539,51,Female,32.52,0,3,None,Focus on weight reduction strategies.
+540,75,Female,37.05,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+541,54,Male,39.67,0,1,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+542,61,Female,33.45,1,2,None,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+543,45,Male,31.8,0,2,High Cholesterol,Focus on weight reduction strategies.
+544,20,Female,24.52,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+545,75,Female,34.58,1,3,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+546,21,Male,36.17,0,3,Arthritis,Focus on weight reduction strategies.
+547,73,Male,23.12,0,3,Depression,"Consider counseling, and practice mindfulness and relaxation."
+548,24,Female,35.79,0,2,Arthritis,Focus on weight reduction strategies.
+549,59,Female,28.28,0,2,Anxiety,
+550,21,Female,32.26,0,1,None,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+551,26,Male,32.97,0,2,Arthritis,Focus on weight reduction strategies.
+552,42,Female,37.96,0,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies.
+553,21,Male,18.59,0,1,Asthma,"Avoid allergens, and practice breathing exercises. | Try to incorporate more physical activities into your routine."
+554,29,Female,27.09,1,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+555,23,Male,33.44,0,3,Kidney Disease,Focus on weight reduction strategies.
+556,62,Male,35.38,1,1,None,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+557,71,Female,22.7,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+558,46,Female,39.06,0,2,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies.
+559,38,Male,37.92,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies.
+560,59,Male,27.51,0,1,Anxiety,Try to incorporate more physical activities into your routine.
+561,33,Male,32.72,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+562,75,Female,38.35,0,3,None,Focus on weight reduction strategies.
+563,27,Male,25.16,0,1,Kidney Disease,Try to incorporate more physical activities into your routine.
+564,23,Female,26.03,0,3,Arthritis,
+565,51,Female,29.11,0,1,None,Try to incorporate more physical activities into your routine.
+566,45,Female,23.26,1,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Quit smoking to lower risk of chronic diseases.
+567,69,Male,21.94,1,2,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Quit smoking to lower risk of chronic diseases."
+568,72,Female,21.69,0,2,Obesity,Adopt a calorie deficit diet and increase physical activity.
+569,63,Female,26.45,1,2,High Cholesterol,Quit smoking to lower risk of chronic diseases.
+570,79,Male,25.91,1,3,Asthma,"Avoid allergens, and practice breathing exercises. | Quit smoking to lower risk of chronic diseases."
+571,56,Male,28.86,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+572,33,Male,25.08,1,3,Kidney Disease,Quit smoking to lower risk of chronic diseases.
+573,60,Male,22.36,0,1,High Cholesterol,Try to incorporate more physical activities into your routine.
+574,70,Female,38.5,1,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+575,79,Male,28.51,0,2,None,
+576,26,Female,35.15,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies.
+577,21,Male,22.19,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+578,42,Male,22.81,0,2,High Cholesterol,
+579,26,Male,27.77,0,2,Arthritis,
+580,65,Female,38.91,1,3,Anxiety,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+581,59,Female,32.57,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies."
+582,42,Male,28.92,1,1,Anxiety,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+583,75,Male,35.63,0,3,None,Focus on weight reduction strategies.
+584,69,Male,36.59,1,2,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+585,47,Female,31.27,0,4,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Great job maintaining high activity levels!"
+586,46,Male,23.51,0,3,Allergies,
+587,49,Male,29.91,0,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+588,61,Male,35.52,1,1,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+589,66,Female,23.57,1,2,None,Quit smoking to lower risk of chronic diseases.
+590,23,Female,39.22,0,3,Anxiety,Focus on weight reduction strategies.
+591,60,Female,27.49,0,3,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats."
+592,20,Female,25.53,0,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Try to incorporate more physical activities into your routine."
+593,79,Female,39.75,0,1,Arthritis,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+594,36,Male,31.01,0,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies.
+595,80,Female,36.72,1,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+596,20,Female,19.23,0,1,Chronic Fatigue,Try to incorporate more physical activities into your routine.
+597,42,Female,23.01,0,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Try to incorporate more physical activities into your routine.
+598,32,Female,23.25,1,3,None,Quit smoking to lower risk of chronic diseases.
+599,32,Female,38.03,0,3,Thyroid Disorders,Focus on weight reduction strategies.
+600,71,Female,19.1,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+601,64,Female,39.14,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+602,32,Female,25.56,0,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Try to incorporate more physical activities into your routine."
+603,45,Female,39.09,1,2,None,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+604,22,Female,21.43,0,3,Arthritis,
+605,39,Female,19.39,0,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Try to incorporate more physical activities into your routine.
+606,56,Female,25.82,1,3,High Cholesterol,Quit smoking to lower risk of chronic diseases.
+607,60,Female,38.5,0,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies."
+608,48,Female,25.39,0,2,High Cholesterol,
+609,70,Female,29.34,0,1,Allergies,Try to incorporate more physical activities into your routine.
+610,42,Female,37.5,1,3,High Cholesterol,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+611,33,Male,21.35,1,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+612,74,Female,38.25,0,1,Osteoporosis,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+613,19,Female,23.09,1,1,Asthma,"Avoid allergens, and practice breathing exercises. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+614,47,Male,36.66,0,2,None,Focus on weight reduction strategies.
+615,64,Male,19.9,0,4,Asthma,"Avoid allergens, and practice breathing exercises. | Great job maintaining high activity levels!"
+616,55,Male,20.37,1,3,Chronic Fatigue,Quit smoking to lower risk of chronic diseases.
+617,41,Female,28.18,1,4,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+618,20,Female,25.86,0,2,Allergies,
+619,34,Male,20.32,0,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Try to incorporate more physical activities into your routine."
+620,78,Female,37.36,1,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+621,67,Male,27.05,1,1,Asthma,"Avoid allergens, and practice breathing exercises. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+622,43,Female,20.17,1,4,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+623,53,Male,20.52,1,2,None,Quit smoking to lower risk of chronic diseases.
+624,75,Female,25.38,0,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Try to incorporate more physical activities into your routine.
+625,48,Female,38.78,0,2,Allergies,Focus on weight reduction strategies.
+626,59,Male,26.67,0,2,Kidney Disease,
+627,26,Female,28.12,1,1,Depression,"Consider counseling, and practice mindfulness and relaxation. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+628,63,Male,33.74,0,4,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies. | Great job maintaining high activity levels!"
+629,44,Female,29.31,1,2,Obesity,Adopt a calorie deficit diet and increase physical activity. | Quit smoking to lower risk of chronic diseases.
+630,41,Female,32.83,0,2,Thyroid Disorders,Focus on weight reduction strategies.
+631,19,Female,25.04,1,4,Thyroid Disorders,Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+632,78,Male,21.68,0,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Try to incorporate more physical activities into your routine.
+633,43,Male,24.49,1,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+634,77,Female,38.33,0,3,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies.
+635,24,Female,38.12,1,1,Arthritis,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+636,51,Female,31.6,1,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+637,77,Male,34.01,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+638,46,Male,21.78,0,2,Allergies,
+639,34,Male,38.98,0,1,None,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+640,67,Female,34.76,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+641,49,Male,21.6,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+642,59,Male,34.34,0,4,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Great job maintaining high activity levels!"
+643,76,Female,24.83,0,1,None,Try to incorporate more physical activities into your routine.
+644,29,Male,37.98,0,1,High Cholesterol,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+645,40,Female,39.57,0,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies.
+646,33,Female,27.04,1,1,Allergies,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+647,49,Female,33.75,1,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+648,45,Female,28.1,0,1,Osteoporosis,Try to incorporate more physical activities into your routine.
+649,37,Female,35.35,0,4,High Cholesterol,Focus on weight reduction strategies. | Great job maintaining high activity levels!
+650,23,Female,37.46,0,1,None,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+651,19,Male,31.19,1,3,Arthritis,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+652,31,Male,18.68,0,3,Asthma,"Avoid allergens, and practice breathing exercises."
+653,66,Female,35.77,1,2,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+654,41,Female,23.04,0,2,Thyroid Disorders,
+655,46,Female,31.11,0,2,Allergies,Focus on weight reduction strategies.
+656,24,Female,20.98,0,2,High Cholesterol,
+657,23,Female,23.47,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+658,21,Male,37.78,1,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+659,59,Male,32.85,1,1,None,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+660,30,Male,30.84,0,1,High Cholesterol,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+661,80,Male,31.68,0,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies."
+662,44,Male,37.75,0,1,High Cholesterol,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+663,50,Female,39.55,1,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+664,79,Female,31.26,1,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+665,41,Male,18.96,1,2,None,Quit smoking to lower risk of chronic diseases.
+666,28,Male,28.05,1,1,High Cholesterol,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+667,53,Female,36.62,0,2,None,Focus on weight reduction strategies.
+668,74,Female,28.47,1,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Quit smoking to lower risk of chronic diseases.
+669,58,Female,25.61,0,1,High Cholesterol,Try to incorporate more physical activities into your routine.
+670,65,Female,32.04,1,2,High Cholesterol,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+671,51,Female,19.62,0,1,Asthma,"Avoid allergens, and practice breathing exercises. | Try to incorporate more physical activities into your routine."
+672,18,Female,23.37,1,1,None,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+673,78,Male,24.63,1,2,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Quit smoking to lower risk of chronic diseases."
+674,49,Male,22.61,0,2,Thyroid Disorders,
+675,21,Male,26.26,0,1,Anxiety,Try to incorporate more physical activities into your routine.
+676,42,Male,31.47,1,3,None,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+677,77,Male,34.07,0,2,None,Focus on weight reduction strategies.
+678,72,Male,28.88,0,2,Arthritis,
+679,56,Female,24.46,0,1,Depression,"Consider counseling, and practice mindfulness and relaxation. | Try to incorporate more physical activities into your routine."
+680,47,Female,19.62,0,2,Allergies,
+681,49,Male,21.06,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+682,42,Female,32.71,0,3,Kidney Disease,Focus on weight reduction strategies.
+683,75,Male,35.24,1,2,None,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+684,75,Male,18.54,0,2,High Cholesterol,
+685,27,Female,30.6,1,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+686,80,Male,27.96,0,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Try to incorporate more physical activities into your routine.
+687,49,Female,39.79,1,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+688,31,Female,23.69,0,1,Kidney Disease,Try to incorporate more physical activities into your routine.
+689,53,Male,26.03,1,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Quit smoking to lower risk of chronic diseases."
+690,75,Female,39.32,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+691,62,Male,32.33,0,4,None,Focus on weight reduction strategies. | Great job maintaining high activity levels!
+692,65,Male,35.7,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies."
+693,73,Female,34.39,1,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+694,20,Male,24.7,0,2,COPD,
+695,35,Male,31.07,0,3,Anxiety,Focus on weight reduction strategies.
+696,68,Male,32.14,0,4,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Great job maintaining high activity levels!
+697,40,Female,24.93,0,2,Allergies,
+698,48,Male,24.35,1,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Quit smoking to lower risk of chronic diseases.
+699,54,Male,34.68,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies."
+700,40,Male,30.44,1,2,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+701,51,Male,20.31,1,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+702,69,Male,26.83,1,4,Depression,"Consider counseling, and practice mindfulness and relaxation. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!"
+703,58,Female,24.3,0,2,Asthma,"Avoid allergens, and practice breathing exercises."
+704,56,Male,23.83,0,2,Obesity,Adopt a calorie deficit diet and increase physical activity.
+705,46,Male,37.44,0,4,None,Focus on weight reduction strategies. | Great job maintaining high activity levels!
+706,22,Male,23.24,0,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+707,62,Female,31.88,1,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+708,55,Male,32.3,0,2,Chronic Fatigue,Focus on weight reduction strategies.
+709,18,Female,30.53,0,3,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies.
+710,30,Male,35.16,0,1,None,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+711,78,Male,23.29,0,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+712,44,Female,25.64,1,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+713,20,Male,24.52,1,1,High Cholesterol,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+714,25,Male,28.67,0,1,None,Try to incorporate more physical activities into your routine.
+715,55,Male,38.71,0,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+716,62,Female,22.13,0,1,Osteoporosis,Try to incorporate more physical activities into your routine.
+717,72,Female,19.99,1,2,Asthma,"Avoid allergens, and practice breathing exercises. | Quit smoking to lower risk of chronic diseases."
+718,67,Male,39.39,1,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+719,30,Male,19.26,1,4,COPD,Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+720,52,Female,31.51,0,2,None,Focus on weight reduction strategies.
+721,21,Male,19.77,0,1,Anxiety,Try to incorporate more physical activities into your routine.
+722,50,Male,29.0,1,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+723,45,Female,22.47,0,3,High Cholesterol,
+724,61,Male,32.2,1,1,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+725,25,Female,34.38,0,1,None,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+726,60,Female,19.74,0,4,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Great job maintaining high activity levels!"
+727,20,Female,19.23,0,3,Arthritis,
+728,27,Female,32.36,0,3,Arthritis,Focus on weight reduction strategies.
+729,23,Male,37.52,0,2,None,Focus on weight reduction strategies.
+730,44,Male,36.84,0,1,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+731,20,Male,38.45,0,3,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies.
+732,40,Female,27.01,0,2,None,
+733,65,Male,31.53,0,1,None,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+734,45,Female,33.92,0,2,None,Focus on weight reduction strategies.
+735,64,Female,24.07,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+736,32,Female,30.68,1,2,COPD,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+737,70,Male,33.09,0,2,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies."
+738,28,Female,19.26,0,2,Asthma,"Avoid allergens, and practice breathing exercises."
+739,72,Male,35.29,0,1,Arthritis,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+740,21,Male,27.26,0,1,High Cholesterol,Try to incorporate more physical activities into your routine.
+741,48,Female,19.94,1,4,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!"
+742,72,Male,33.59,0,1,Kidney Disease,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+743,54,Male,29.42,0,1,None,Try to incorporate more physical activities into your routine.
+744,59,Female,31.32,0,2,Kidney Disease,Focus on weight reduction strategies.
+745,36,Male,32.07,1,2,None,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+746,55,Female,21.91,1,2,High Cholesterol,Quit smoking to lower risk of chronic diseases.
+747,63,Male,20.46,1,2,Kidney Disease,Quit smoking to lower risk of chronic diseases.
+748,36,Male,26.64,0,3,High Cholesterol,
+749,65,Male,30.97,0,2,Chronic Fatigue,Focus on weight reduction strategies.
+750,74,Female,29.29,1,4,None,Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+751,20,Male,21.59,0,2,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats."
+752,51,Female,20.54,0,2,Chronic Fatigue,
+753,38,Female,22.1,0,4,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Great job maintaining high activity levels!
+754,27,Female,35.27,1,1,None,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+755,41,Male,28.62,0,4,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Great job maintaining high activity levels!"
+756,58,Male,32.71,0,3,None,Focus on weight reduction strategies.
+757,31,Female,36.8,1,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+758,56,Male,39.72,1,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+759,49,Male,24.53,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+760,34,Male,28.58,1,1,None,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+761,56,Male,39.17,1,4,Arthritis,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+762,41,Female,19.36,1,2,Anxiety,Quit smoking to lower risk of chronic diseases.
+763,78,Male,27.91,0,1,None,Try to incorporate more physical activities into your routine.
+764,26,Male,32.61,0,4,Thyroid Disorders,Focus on weight reduction strategies. | Great job maintaining high activity levels!
+765,78,Female,18.95,1,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Quit smoking to lower risk of chronic diseases."
+766,32,Male,37.35,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies."
+767,71,Female,20.62,0,2,Obesity,Adopt a calorie deficit diet and increase physical activity.
+768,71,Male,21.65,0,3,Thyroid Disorders,
+769,66,Male,29.98,1,2,Thyroid Disorders,Quit smoking to lower risk of chronic diseases.
+770,37,Female,27.39,0,2,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats."
+771,44,Male,36.89,1,4,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+772,59,Male,19.77,1,2,Obesity,Adopt a calorie deficit diet and increase physical activity. | Quit smoking to lower risk of chronic diseases.
+773,38,Female,29.82,0,1,Kidney Disease,Try to incorporate more physical activities into your routine.
+774,32,Female,28.2,0,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Try to incorporate more physical activities into your routine."
+775,73,Female,22.37,0,1,None,Try to incorporate more physical activities into your routine.
+776,60,Male,21.22,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+777,62,Female,36.45,0,2,None,Focus on weight reduction strategies.
+778,24,Male,18.71,0,2,Kidney Disease,
+779,47,Male,38.66,0,2,High Cholesterol,Focus on weight reduction strategies.
+780,75,Female,19.27,1,1,Depression,"Consider counseling, and practice mindfulness and relaxation. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+781,60,Female,25.85,0,1,Thyroid Disorders,Try to incorporate more physical activities into your routine.
+782,40,Male,28.58,1,3,None,Quit smoking to lower risk of chronic diseases.
+783,21,Male,35.12,1,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+784,26,Female,35.25,0,2,Osteoporosis,Focus on weight reduction strategies.
+785,55,Female,23.28,0,1,COPD,Try to incorporate more physical activities into your routine.
+786,65,Male,21.06,0,2,High Cholesterol,
+787,24,Male,18.69,1,1,Asthma,"Avoid allergens, and practice breathing exercises. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+788,57,Female,33.18,0,3,None,Focus on weight reduction strategies.
+789,71,Female,29.4,1,1,Depression,"Consider counseling, and practice mindfulness and relaxation. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+790,23,Female,19.88,0,3,High Cholesterol,
+791,58,Male,31.95,1,3,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+792,42,Female,35.69,0,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies."
+793,76,Male,35.79,0,1,Osteoporosis,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+794,30,Male,29.48,0,3,High Cholesterol,
+795,24,Male,27.73,0,1,Arthritis,Try to incorporate more physical activities into your routine.
+796,23,Female,30.23,0,4,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Great job maintaining high activity levels!"
+797,36,Male,21.92,1,3,Arthritis,Quit smoking to lower risk of chronic diseases.
+798,26,Male,37.47,1,2,Allergies,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+799,61,Male,34.0,1,3,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+800,78,Female,32.92,1,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+801,76,Female,27.7,1,2,None,Quit smoking to lower risk of chronic diseases.
+802,63,Male,26.9,0,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Try to incorporate more physical activities into your routine.
+803,46,Male,28.26,0,1,Arthritis,Try to incorporate more physical activities into your routine.
+804,65,Female,39.62,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+805,39,Female,23.71,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+806,60,Female,22.37,1,3,Asthma,"Avoid allergens, and practice breathing exercises. | Quit smoking to lower risk of chronic diseases."
+807,62,Female,33.9,0,2,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies."
+808,80,Male,32.67,0,1,None,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+809,57,Male,23.81,1,3,High Cholesterol,Quit smoking to lower risk of chronic diseases.
+810,56,Female,32.49,0,2,Arthritis,Focus on weight reduction strategies.
+811,77,Male,21.57,1,2,Kidney Disease,Quit smoking to lower risk of chronic diseases.
+812,59,Male,21.17,0,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+813,72,Female,27.44,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+814,80,Female,39.64,0,2,Thyroid Disorders,Focus on weight reduction strategies.
+815,52,Female,21.28,1,1,Kidney Disease,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+816,74,Female,28.11,0,3,High Cholesterol,
+817,77,Female,28.49,1,4,Arthritis,Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+818,34,Female,39.72,1,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+819,47,Male,31.83,0,3,None,Focus on weight reduction strategies.
+820,34,Female,31.3,0,3,Arthritis,Focus on weight reduction strategies.
+821,55,Female,32.59,1,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+822,76,Female,36.72,1,3,Anxiety,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+823,57,Female,36.23,1,2,Arthritis,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+824,59,Female,33.41,0,2,None,Focus on weight reduction strategies.
+825,58,Female,37.99,1,2,High Cholesterol,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+826,26,Male,28.65,1,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+827,26,Female,37.13,0,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+828,40,Male,25.21,0,2,Osteoporosis,
+829,69,Female,31.56,0,1,High Cholesterol,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+830,63,Male,23.44,0,3,Osteoporosis,
+831,60,Female,19.8,0,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Try to incorporate more physical activities into your routine.
+832,56,Male,27.3,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+833,56,Female,20.76,1,2,None,Quit smoking to lower risk of chronic diseases.
+834,63,Female,34.5,1,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+835,34,Female,39.31,1,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+836,70,Male,33.39,1,1,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+837,35,Female,34.01,0,1,High Cholesterol,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+838,40,Female,25.0,0,2,None,
+839,33,Female,21.73,0,1,Thyroid Disorders,Try to incorporate more physical activities into your routine.
+840,36,Female,25.33,0,3,Asthma,"Avoid allergens, and practice breathing exercises."
+841,55,Male,20.92,1,2,Arthritis,Quit smoking to lower risk of chronic diseases.
+842,66,Male,39.43,1,1,High Cholesterol,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+843,20,Male,19.51,0,2,Asthma,"Avoid allergens, and practice breathing exercises."
+844,20,Male,38.67,0,2,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies."
+845,49,Female,33.99,1,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+846,68,Male,33.95,0,2,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies.
+847,32,Female,29.24,1,2,Arthritis,Quit smoking to lower risk of chronic diseases.
+848,24,Female,33.22,1,3,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+849,58,Male,27.95,0,3,Allergies,
+850,78,Female,24.79,0,1,None,Try to incorporate more physical activities into your routine.
+851,80,Male,23.36,1,3,Asthma,"Avoid allergens, and practice breathing exercises. | Quit smoking to lower risk of chronic diseases."
+852,23,Male,30.7,1,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+853,52,Male,29.34,1,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Quit smoking to lower risk of chronic diseases."
+854,49,Male,33.45,1,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+855,76,Female,19.79,1,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+856,22,Female,29.31,0,1,Chronic Fatigue,Try to incorporate more physical activities into your routine.
+857,24,Female,28.33,1,1,Arthritis,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+858,38,Female,37.15,0,2,Kidney Disease,Focus on weight reduction strategies.
+859,36,Male,24.38,0,3,Kidney Disease,
+860,20,Female,39.23,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+861,73,Male,34.63,1,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+862,41,Female,21.4,0,2,High Cholesterol,
+863,41,Female,20.98,0,3,None,
+864,63,Female,26.52,0,4,Osteoporosis,Great job maintaining high activity levels!
+865,55,Female,34.56,0,4,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies. | Great job maintaining high activity levels!"
+866,70,Male,31.23,0,1,Anxiety,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+867,18,Male,27.69,1,4,COPD,Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+868,24,Female,34.34,1,1,Chronic Fatigue,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+869,75,Female,20.32,0,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Try to incorporate more physical activities into your routine."
+870,57,Male,21.71,0,3,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats."
+871,47,Male,19.31,1,1,Asthma,"Avoid allergens, and practice breathing exercises. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+872,78,Female,26.56,0,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+873,51,Female,20.37,0,2,Anxiety,
+874,69,Female,21.22,1,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Quit smoking to lower risk of chronic diseases."
+875,36,Female,39.61,1,1,Arthritis,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+876,77,Female,31.17,1,2,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+877,18,Male,21.06,1,2,Anxiety,Quit smoking to lower risk of chronic diseases.
+878,77,Female,36.66,0,3,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies."
+879,19,Female,28.27,0,4,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Great job maintaining high activity levels!"
+880,28,Female,30.98,1,1,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+881,40,Male,23.9,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+882,20,Male,25.22,1,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+883,56,Male,21.11,0,2,Obesity,Adopt a calorie deficit diet and increase physical activity.
+884,30,Female,32.7,1,1,None,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+885,51,Male,28.25,0,4,Arthritis,Great job maintaining high activity levels!
+886,78,Female,34.77,1,4,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+887,33,Male,35.31,0,3,Chronic Fatigue,Focus on weight reduction strategies.
+888,60,Male,27.86,0,1,None,Try to incorporate more physical activities into your routine.
+889,25,Female,37.16,0,4,Arthritis,Focus on weight reduction strategies. | Great job maintaining high activity levels!
+890,77,Female,19.08,0,2,Asthma,"Avoid allergens, and practice breathing exercises."
+891,19,Male,21.14,1,4,Obesity,Adopt a calorie deficit diet and increase physical activity. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+892,68,Female,31.03,0,1,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+893,63,Female,18.55,1,4,Obesity,Adopt a calorie deficit diet and increase physical activity. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+894,71,Male,27.26,0,3,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats."
+895,22,Male,20.34,0,1,None,Try to incorporate more physical activities into your routine.
+896,60,Female,26.15,0,1,Anxiety,Try to incorporate more physical activities into your routine.
+897,57,Male,20.67,0,3,Osteoporosis,
+898,19,Female,33.51,1,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+899,23,Male,30.63,0,2,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies."
+900,21,Female,35.74,0,4,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Great job maintaining high activity levels!
+901,46,Male,31.76,1,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+902,68,Female,33.01,0,1,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+903,77,Male,34.78,0,1,Osteoporosis,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+904,20,Male,25.39,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+905,45,Male,30.61,1,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+906,69,Male,19.46,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+907,32,Male,28.19,0,3,Osteoporosis,
+908,30,Female,28.68,1,4,Asthma,"Avoid allergens, and practice breathing exercises. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!"
+909,74,Female,34.21,0,3,Arthritis,Focus on weight reduction strategies.
+910,22,Male,27.88,0,3,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats."
+911,41,Female,30.53,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies.
+912,31,Male,21.44,0,1,None,Try to incorporate more physical activities into your routine.
+913,36,Male,20.46,1,1,Allergies,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+914,54,Female,21.78,0,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+915,22,Female,18.96,0,4,Thyroid Disorders,Great job maintaining high activity levels!
+916,43,Male,34.76,0,3,Kidney Disease,Focus on weight reduction strategies.
+917,40,Female,34.48,0,1,COPD,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+918,58,Male,20.77,1,4,Asthma,"Avoid allergens, and practice breathing exercises. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!"
+919,25,Male,35.49,0,4,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Great job maintaining high activity levels!"
+920,60,Male,33.58,0,4,None,Focus on weight reduction strategies. | Great job maintaining high activity levels!
+921,20,Female,31.01,0,4,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Great job maintaining high activity levels!"
+922,37,Male,24.52,1,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Quit smoking to lower risk of chronic diseases.
+923,37,Male,20.06,0,2,None,
+924,22,Female,20.56,0,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Try to incorporate more physical activities into your routine.
+925,61,Female,34.44,0,3,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies."
+926,78,Female,33.32,1,3,High Cholesterol,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+927,66,Female,32.17,0,1,Osteoporosis,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+928,43,Female,32.7,0,1,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+929,34,Male,37.6,0,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies.
+930,19,Male,25.23,1,4,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!"
+931,69,Female,30.31,0,2,Arthritis,Focus on weight reduction strategies.
+932,20,Male,25.35,1,1,Thyroid Disorders,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+933,27,Male,27.2,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+934,55,Male,25.35,1,2,High Cholesterol,Quit smoking to lower risk of chronic diseases.
+935,19,Female,32.83,1,1,Chronic Fatigue,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+936,42,Female,34.35,0,1,None,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+937,38,Female,29.81,0,1,Anxiety,Try to incorporate more physical activities into your routine.
+938,35,Female,30.48,1,1,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+939,66,Female,38.02,0,2,Chronic Fatigue,Focus on weight reduction strategies.
+940,71,Male,20.82,0,3,Obesity,Adopt a calorie deficit diet and increase physical activity.
+941,39,Male,38.57,0,3,None,Focus on weight reduction strategies.
+942,51,Female,23.54,1,3,Osteoporosis,Quit smoking to lower risk of chronic diseases.
+943,59,Male,22.89,1,1,Allergies,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+944,62,Male,37.95,0,2,Osteoporosis,Focus on weight reduction strategies.
+945,54,Male,34.5,1,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+946,56,Male,36.02,1,4,Anxiety,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+947,47,Male,19.79,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+948,50,Female,21.12,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+949,23,Male,27.99,1,2,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Quit smoking to lower risk of chronic diseases."
+950,30,Male,28.12,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+951,37,Female,24.04,0,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Try to incorporate more physical activities into your routine.
+952,51,Male,34.92,0,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+953,76,Female,26.1,0,2,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats."
+954,30,Female,27.4,0,2,Allergies,
+955,66,Female,30.62,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies.
+956,59,Male,31.28,0,4,Arthritis,Focus on weight reduction strategies. | Great job maintaining high activity levels!
+957,39,Female,29.37,1,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Quit smoking to lower risk of chronic diseases.
+958,38,Female,27.64,1,1,None,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+959,72,Female,35.17,1,3,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+960,31,Male,30.67,0,2,Kidney Disease,Focus on weight reduction strategies.
+961,80,Female,37.41,1,1,None,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+962,53,Female,33.97,1,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+963,22,Female,29.93,1,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Quit smoking to lower risk of chronic diseases.
+964,80,Male,34.5,0,4,Arthritis,Focus on weight reduction strategies. | Great job maintaining high activity levels!
+965,70,Male,25.41,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+966,37,Male,34.53,0,1,None,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+967,73,Female,22.11,1,1,Thyroid Disorders,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+968,79,Male,35.26,0,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+969,74,Male,20.38,0,1,None,Try to incorporate more physical activities into your routine.
+970,76,Male,18.51,0,1,None,Try to incorporate more physical activities into your routine.
+971,59,Male,18.87,0,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Try to incorporate more physical activities into your routine.
+972,57,Female,28.73,0,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Try to incorporate more physical activities into your routine.
+973,29,Female,31.07,0,1,Arthritis,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+974,64,Male,27.35,1,2,Allergies,Quit smoking to lower risk of chronic diseases.
+975,57,Female,33.54,0,4,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Great job maintaining high activity levels!"
+976,46,Female,36.41,0,2,None,Focus on weight reduction strategies.
+977,52,Female,29.41,0,2,COPD,
+978,72,Female,39.46,0,1,High Cholesterol,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+979,67,Male,31.8,1,2,Allergies,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+980,55,Female,30.9,0,1,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+981,68,Female,18.63,1,4,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+982,29,Male,34.08,1,4,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!"
+983,64,Female,35.25,0,1,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+984,80,Female,35.53,1,2,High Cholesterol,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+985,29,Female,23.84,0,3,None,
+986,37,Female,39.61,0,2,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies."
+987,43,Female,34.24,1,2,Anxiety,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+988,50,Female,37.11,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies.
+989,58,Female,32.91,1,2,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+990,76,Male,38.96,1,4,High Cholesterol,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+991,55,Female,19.27,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+992,45,Female,35.28,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+993,48,Female,35.56,1,3,None,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+994,46,Female,21.92,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+995,77,Female,24.34,0,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Try to incorporate more physical activities into your routine.
+996,67,Female,32.13,1,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+997,40,Male,38.01,1,1,None,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+998,28,Male,32.84,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+999,35,Male,33.69,0,2,COPD,Focus on weight reduction strategies.
+1000,23,Female,39.31,0,4,None,Focus on weight reduction strategies. | Great job maintaining high activity levels!
+1001,39,Female,20.4,1,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+1002,22,Female,19.42,0,1,None,Try to incorporate more physical activities into your routine.
+1003,23,Male,19.33,1,1,High Cholesterol,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+1004,67,Female,28.36,0,1,Osteoporosis,Try to incorporate more physical activities into your routine.
+1005,47,Female,34.69,0,1,Osteoporosis,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+1006,59,Male,33.47,0,2,Anxiety,Focus on weight reduction strategies.
+1007,70,Male,19.56,0,3,Asthma,"Avoid allergens, and practice breathing exercises."
+1008,56,Female,34.69,0,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+1009,40,Male,23.5,0,2,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats."
+1010,63,Male,36.04,1,2,None,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+1011,64,Male,38.79,0,3,None,Focus on weight reduction strategies.
+1012,28,Female,19.15,0,4,Asthma,"Avoid allergens, and practice breathing exercises. | Great job maintaining high activity levels!"
+1013,19,Female,20.21,0,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+1014,31,Female,30.17,0,2,None,Focus on weight reduction strategies.
+1015,26,Male,31.71,1,2,High Cholesterol,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+1016,44,Male,26.94,0,2,None,
+1017,34,Female,35.05,0,3,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies.
+1018,18,Male,32.13,1,1,None,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+1019,35,Female,37.07,0,2,Arthritis,Focus on weight reduction strategies.
+1020,38,Male,28.82,0,1,Depression,"Consider counseling, and practice mindfulness and relaxation. | Try to incorporate more physical activities into your routine."
+1021,20,Male,22.93,0,3,None,
+1022,71,Female,34.0,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+1023,38,Male,27.05,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+1024,71,Male,28.59,0,2,None,
+1025,56,Male,26.64,0,1,Asthma,"Avoid allergens, and practice breathing exercises. | Try to incorporate more physical activities into your routine."
+1026,48,Male,20.69,1,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+1027,67,Female,31.14,0,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+1028,44,Female,32.43,0,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+1029,69,Male,32.87,1,2,Arthritis,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+1030,42,Male,22.5,0,2,COPD,
+1031,80,Female,36.08,0,3,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies."
+1032,39,Female,24.47,0,1,Allergies,Try to incorporate more physical activities into your routine.
+1033,56,Male,39.67,0,3,Allergies,Focus on weight reduction strategies.
+1034,70,Female,32.42,0,2,Arthritis,Focus on weight reduction strategies.
+1035,28,Female,21.58,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+1036,50,Male,34.73,0,2,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies.
+1037,37,Female,37.23,0,2,None,Focus on weight reduction strategies.
+1038,31,Male,39.21,0,2,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies.
+1039,78,Male,27.24,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+1040,72,Male,36.64,0,1,Arthritis,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+1041,23,Male,22.68,0,2,Obesity,Adopt a calorie deficit diet and increase physical activity.
+1042,24,Male,19.35,0,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Try to incorporate more physical activities into your routine."
+1043,45,Male,19.38,1,1,Arthritis,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+1044,46,Male,22.58,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+1045,24,Male,19.7,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+1046,59,Male,39.54,0,3,Thyroid Disorders,Focus on weight reduction strategies.
+1047,51,Male,25.67,1,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+1048,25,Female,25.54,1,2,None,Quit smoking to lower risk of chronic diseases.
+1049,41,Male,38.88,0,2,High Cholesterol,Focus on weight reduction strategies.
+1050,44,Female,22.07,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+1051,32,Male,20.25,0,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Try to incorporate more physical activities into your routine.
+1052,39,Female,25.05,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+1053,79,Female,22.33,0,1,None,Try to incorporate more physical activities into your routine.
+1054,57,Male,36.28,0,1,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+1055,33,Female,35.55,1,1,Kidney Disease,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+1056,72,Male,18.76,0,1,Arthritis,Try to incorporate more physical activities into your routine.
+1057,72,Female,18.68,1,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+1058,74,Male,38.7,1,2,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+1059,18,Male,23.1,1,3,Arthritis,Quit smoking to lower risk of chronic diseases.
+1060,59,Male,28.4,0,1,Asthma,"Avoid allergens, and practice breathing exercises. | Try to incorporate more physical activities into your routine."
+1061,79,Male,37.7,1,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+1062,74,Male,23.72,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+1063,69,Female,25.87,0,4,High Cholesterol,Great job maintaining high activity levels!
+1064,20,Female,31.89,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+1065,40,Male,29.4,0,2,High Cholesterol,
+1066,37,Female,32.66,0,2,Anxiety,Focus on weight reduction strategies.
+1067,57,Male,20.71,1,1,Arthritis,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+1068,31,Male,34.64,0,2,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies."
+1069,74,Female,26.0,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+1070,23,Male,33.26,1,2,Kidney Disease,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+1071,62,Male,29.12,0,2,Depression,"Consider counseling, and practice mindfulness and relaxation."
+1072,33,Male,22.87,0,1,Allergies,Try to incorporate more physical activities into your routine.
+1073,78,Female,37.47,0,2,Arthritis,Focus on weight reduction strategies.
+1074,29,Male,25.18,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+1075,24,Male,28.95,0,1,High Cholesterol,Try to incorporate more physical activities into your routine.
+1076,54,Female,38.16,1,4,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!"
+1077,30,Female,28.57,1,1,Anxiety,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+1078,31,Male,19.77,0,1,Depression,"Consider counseling, and practice mindfulness and relaxation. | Try to incorporate more physical activities into your routine."
+1079,47,Female,34.58,1,3,Kidney Disease,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+1080,39,Female,32.65,0,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+1081,64,Female,19.66,0,4,Depression,"Consider counseling, and practice mindfulness and relaxation. | Great job maintaining high activity levels!"
+1082,61,Male,28.59,1,1,High Cholesterol,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+1083,46,Male,20.05,1,2,High Cholesterol,Quit smoking to lower risk of chronic diseases.
+1084,38,Male,35.76,0,4,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies. | Great job maintaining high activity levels!"
+1085,24,Female,25.4,0,3,Anxiety,
+1086,79,Female,27.88,0,4,Kidney Disease,Great job maintaining high activity levels!
+1087,32,Male,20.75,0,4,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Great job maintaining high activity levels!"
+1088,74,Female,29.33,1,1,Osteoporosis,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+1089,37,Male,30.0,1,1,None,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+1090,33,Male,39.9,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies."
+1091,61,Male,23.29,0,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+1092,77,Male,19.54,0,4,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Great job maintaining high activity levels!
+1093,51,Male,28.87,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+1094,51,Male,23.85,1,2,Chronic Fatigue,Quit smoking to lower risk of chronic diseases.
+1095,29,Female,20.21,1,2,None,Quit smoking to lower risk of chronic diseases.
+1096,58,Male,32.12,0,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+1097,62,Female,32.35,0,4,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Great job maintaining high activity levels!"
+1098,61,Male,27.0,0,2,High Cholesterol,
+1099,65,Female,31.88,0,2,None,Focus on weight reduction strategies.
+1100,77,Male,24.11,0,2,COPD,
+1101,47,Female,28.68,1,3,Chronic Fatigue,Quit smoking to lower risk of chronic diseases.
+1102,21,Male,29.42,0,1,Osteoporosis,Try to incorporate more physical activities into your routine.
+1103,57,Male,30.34,0,3,High Cholesterol,Focus on weight reduction strategies.
+1104,64,Male,25.11,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+1105,31,Female,22.23,1,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+1106,56,Female,29.09,1,3,Asthma,"Avoid allergens, and practice breathing exercises. | Quit smoking to lower risk of chronic diseases."
+1107,74,Male,29.3,0,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+1108,21,Male,25.46,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+1109,76,Male,23.97,0,4,Asthma,"Avoid allergens, and practice breathing exercises. | Great job maintaining high activity levels!"
+1110,69,Male,30.51,0,1,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+1111,50,Female,26.09,0,3,High Cholesterol,
+1112,64,Male,26.24,1,2,Chronic Fatigue,Quit smoking to lower risk of chronic diseases.
+1113,26,Male,21.34,0,2,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats."
+1114,27,Male,31.74,1,2,High Cholesterol,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+1115,31,Male,37.66,0,2,Osteoporosis,Focus on weight reduction strategies.
+1116,77,Male,31.56,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+1117,69,Male,30.52,1,1,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+1118,74,Male,31.87,1,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+1119,33,Male,39.43,0,2,COPD,Focus on weight reduction strategies.
+1120,23,Male,28.05,0,1,Osteoporosis,Try to incorporate more physical activities into your routine.
+1121,51,Male,29.91,1,4,High Cholesterol,Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+1122,65,Female,30.85,0,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine."
+1123,47,Female,19.89,0,3,Arthritis,
+1124,33,Male,37.61,1,3,None,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+1125,80,Female,20.75,0,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Try to incorporate more physical activities into your routine.
+1126,43,Female,30.4,0,4,Kidney Disease,Focus on weight reduction strategies. | Great job maintaining high activity levels!
+1127,76,Female,25.03,0,2,Obesity,Adopt a calorie deficit diet and increase physical activity.
+1128,70,Male,38.11,0,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+1129,75,Female,38.55,0,2,Arthritis,Focus on weight reduction strategies.
+1130,54,Female,26.74,0,4,COPD,Great job maintaining high activity levels!
+1131,61,Female,35.85,0,3,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies."
+1132,64,Female,35.75,0,1,High Cholesterol,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+1133,48,Female,20.09,1,1,None,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+1134,22,Male,28.18,1,3,Obesity,Adopt a calorie deficit diet and increase physical activity. | Quit smoking to lower risk of chronic diseases.
+1135,73,Female,22.31,1,4,High Cholesterol,Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+1136,68,Female,22.22,0,2,Anxiety,
+1137,62,Male,28.95,0,3,Allergies,
+1138,23,Male,27.96,1,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Quit smoking to lower risk of chronic diseases."
+1139,59,Female,26.98,0,3,Obesity,Adopt a calorie deficit diet and increase physical activity.
+1140,59,Male,28.38,1,1,High Cholesterol,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+1141,32,Male,26.22,0,3,Obesity,Adopt a calorie deficit diet and increase physical activity.
+1142,65,Female,36.14,1,1,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+1143,77,Female,32.32,0,1,None,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+1144,21,Male,27.54,0,1,COPD,Try to incorporate more physical activities into your routine.
+1145,69,Male,33.77,1,1,Arthritis,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+1146,18,Female,29.19,1,4,None,Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+1147,41,Female,22.18,0,2,None,
+1148,34,Female,28.3,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+1149,60,Male,26.83,0,4,Asthma,"Avoid allergens, and practice breathing exercises. | Great job maintaining high activity levels!"
+1150,38,Male,23.87,0,4,High Cholesterol,Great job maintaining high activity levels!
+1151,42,Female,32.08,0,2,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies.
+1152,58,Male,25.54,1,2,Kidney Disease,Quit smoking to lower risk of chronic diseases.
+1153,43,Female,23.1,0,1,None,Try to incorporate more physical activities into your routine.
+1154,58,Male,31.03,0,2,Thyroid Disorders,Focus on weight reduction strategies.
+1155,66,Male,28.93,1,1,None,Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+1156,28,Male,32.36,1,2,Thyroid Disorders,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+1157,32,Female,20.0,0,1,Arthritis,Try to incorporate more physical activities into your routine.
+1158,64,Female,19.2,0,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Try to incorporate more physical activities into your routine.
+1159,51,Male,31.78,0,1,None,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+1160,76,Female,37.12,0,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+1161,19,Male,25.08,0,3,None,
+1162,26,Male,25.04,1,3,None,Quit smoking to lower risk of chronic diseases.
+1163,32,Female,38.09,0,3,Obesity,Adopt a calorie deficit diet and increase physical activity. | Focus on weight reduction strategies.
+1164,55,Male,30.73,1,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+1165,46,Male,35.54,0,4,None,Focus on weight reduction strategies. | Great job maintaining high activity levels!
+1166,34,Male,36.45,1,2,Depression,"Consider counseling, and practice mindfulness and relaxation. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+1167,35,Female,23.9,1,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+1168,80,Male,24.08,0,3,Thyroid Disorders,
+1169,45,Male,34.15,0,1,Arthritis,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+1170,51,Female,20.31,0,1,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Try to incorporate more physical activities into your routine."
+1171,32,Female,35.15,0,2,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies.
+1172,69,Female,29.74,1,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+1173,39,Female,30.92,1,1,Asthma,"Avoid allergens, and practice breathing exercises. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine."
+1174,43,Female,36.51,0,1,High Cholesterol,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+1175,50,Female,22.52,0,2,Arthritis,
+1176,54,Female,18.85,0,3,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet.
+1177,18,Female,22.88,0,2,None,
+1178,38,Male,27.93,0,3,Obesity,Adopt a calorie deficit diet and increase physical activity.
+1179,24,Male,31.51,0,4,None,Focus on weight reduction strategies. | Great job maintaining high activity levels!
+1180,30,Male,34.45,1,2,Anxiety,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+1181,49,Female,33.63,0,1,Diabetes,Monitor your blood sugar regularly and follow a low-sugar diet. | Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+1182,61,Female,36.51,0,3,Anxiety,Focus on weight reduction strategies.
+1183,48,Male,26.78,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+1184,58,Male,37.15,0,3,None,Focus on weight reduction strategies.
+1185,22,Female,23.0,1,2,Anxiety,Quit smoking to lower risk of chronic diseases.
+1186,63,Female,25.61,0,1,Arthritis,Try to incorporate more physical activities into your routine.
+1187,42,Male,37.17,0,3,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies."
+1188,68,Female,37.88,1,3,None,Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases.
+1189,54,Female,28.35,0,2,Asthma,"Avoid allergens, and practice breathing exercises."
+1190,80,Female,24.05,0,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress."
+1191,69,Female,28.04,1,1,Obesity,Adopt a calorie deficit diet and increase physical activity. | Quit smoking to lower risk of chronic diseases. | Try to incorporate more physical activities into your routine.
+1192,70,Male,32.39,0,1,Arthritis,Focus on weight reduction strategies. | Try to incorporate more physical activities into your routine.
+1193,27,Male,26.57,0,1,High Cholesterol,Try to incorporate more physical activities into your routine.
+1194,33,Male,38.19,1,2,Heart Disease,"Opt for heart-healthy diets, and reduce intake of trans fats. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
+1195,28,Female,29.97,0,4,None,Great job maintaining high activity levels!
+1196,48,Female,26.0,0,3,Kidney Disease,
+1197,24,Male,28.68,0,2,Anxiety,
+1198,60,Male,23.14,1,4,None,Quit smoking to lower risk of chronic diseases. | Great job maintaining high activity levels!
+1199,44,Female,26.21,0,1,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Try to incorporate more physical activities into your routine."
+1200,76,Male,37.58,1,2,Hypertension,"Reduce sodium intake, exercise regularly, and avoid stress. | Focus on weight reduction strategies. | Quit smoking to lower risk of chronic diseases."
